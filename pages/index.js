@@ -10,10 +10,10 @@ export default function Home() {
               src="/img/OAC_Logo-01.png"
               alt="Logo"
             />
-            <p className="h-20 pt-12 text-2xl font-mono text-heavy-metal">
+            <p className="h-20 pt-12 text-2xl px-2 font-mono text-heavy-metal text-center">
               New frontiers. Together. Trailhead opens soon.
             </p>
-            <div className="pt-8 grid grid-cols-2 gap-8">
+            <div className="pt-8 grid grid-cols-2 gap-8 mt-4 md:mt-0">
               <a href="https://twitter.com/oacdao">
                 <svg
                   className="w-12 h-12 text-red-damask hover:text-light-red-damask fill-current"
